@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Yehdar
-- 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning how to Github and Git
-- 💞️ I’m looking to collaborate on anything that I can manage at this moment
-- 📫 How to reach me - email would be great
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="700"/>
+</div>
+<h1 align="center">
+  Welcome To My Profile 😎
+</h1>
 
-<!---
-Yehdar/Yehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :man_technologist: About Me :
+I am a first year Canadian student <img src="https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif" width="25"> studying comp sci at York University
+- :telescope: Interested in learning as much as I can since I have ALMOST a year of on-and-off coding experience.
+
+- :seedling: Learning to Github lol.
+
+- :zap: In my free time, I unironically love watching self-improvement videos.
+
+- :mailbox:How to reach me: Shoot me an email!
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="MySQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="Jupyter Notebooks" width="40" height="40"/>
+</div>
+
+---
+<div id="funny" align="center">
+  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="500"/>
+</div>
+<p align="center">
+  ^Accurate portrayal of how I code btw^
+</p>
