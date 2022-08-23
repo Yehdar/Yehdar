@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me :
 I am a first year Canadian student <img src="https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif" width="25"> studying comp sci at York University
-- :telescope: Interested in learning as much as I can since I have ALMOST a year of on-and-off coding experience.
+- :telescope: Interested in learning as much as I can since I only have ten months of on-and-off coding experience.
 
 - :seedling: Learning to Github lol.
 
