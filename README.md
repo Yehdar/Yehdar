@@ -13,7 +13,7 @@ I am a first year Canadian student <img src="https://media.giphy.com/media/lvzde
 
 - :zap: In my free time, I unironically love watching self-improvement videos.
 
-- :mailbox:Want to reach me?: Shoot me an email!
+- :mailbox: Want to reach me?: Shoot me an email!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
