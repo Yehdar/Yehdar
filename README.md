@@ -18,7 +18,7 @@ I am a first year Canadian student <img src="https://media.giphy.com/media/lvzde
 ### :writing_hand: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="MySQLite" width="30" height="30"/>&nbsp;
@@ -27,13 +27,13 @@ I am a first year Canadian student <img src="https://media.giphy.com/media/lvzde
 ### :hammer_and_wrench: Developer Tools and Technologies :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="Jupyter Notebooks" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="Jupyter Notebooks" width="30" height="30"/>
 </div>
 
 ### :books: Frameworks and Libraries :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="Jupyter Notebooks" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="Jupyter Notebooks" width="30" height="30"/>
 </div>
 
 ---
