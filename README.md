@@ -9,7 +9,7 @@
 I am a first year Canadian student <img src="https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif" width="25"> studying comp sci at York University
 - :telescope: Interested in learning as much as I can since I only have ten months of coding experience.
 
-- :seedling: Learning why my MERN build had bugs 😭
+- :seedling: Learning how to do MERN backend 😭
 
 - :zap: In my free time, I unironically love watching self-improvement videos.
 
@@ -21,8 +21,7 @@ I am a first year Canadian student <img src="https://media.giphy.com/media/lvzde
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="MySQLite" width="40" height="40"/>&nbsp;
-width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="MySQLite" width="40" height="40"/>&nbsp;>
 </div>
 
 ### :hammer_and_wrench: Developer Tools and Technologies :
