@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me :
 I am a first year Canadian student <img src="https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif" width="25"> studying comp sci at York University
-- :telescope: Interested in MERN stacks at this moment.
+- :telescope: Interested in MERN stacks at this moment
 
 - :seedling: Learning to more efficiently create APIs 😭
 
