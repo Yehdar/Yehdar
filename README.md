@@ -9,7 +9,7 @@
 I am a first year Canadian student <img src="https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif" width="25"> studying comp sci at York University
 - :telescope: Interested in MERN stacks at this moment.
 
-- :seedling: Learning how test APIs on Postman 😭
+- :seedling: Learning to more efficiently create APIs 😭
 
 - :zap: In my free time, I unironically love watching self-improvement videos.
 
