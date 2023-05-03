@@ -1,6 +1,6 @@
 <h1 align="center">
-  Welcome To My Profile
+  Radhey Patel
 </h1>
 <p align="center">
-  Man, to be or not to be, i dont know whats going on anymore lol. None of my projects are going too well.
+  Yo, how's it going! I got nothing to fancy yet so give me some time and I'll have some cool things to show off.
 </p>
