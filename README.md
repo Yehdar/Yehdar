@@ -1,6 +1,3 @@
-<div id="header" align="center">
-<img src="https://tenor.com/en-CA/view/hsk-gif-21341914" width="700"/>
-</div>
 <h1 align="center">
   Welcome To My Profile
 </h1>
