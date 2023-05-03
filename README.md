@@ -2,5 +2,5 @@
   Radhey Patel
 </h1>
 <p align="center">
-  Yo, how's it going! I got nothing to fancy yet so give me some time and I'll have some cool things to show off.
+  Yo, how's it going! I got nothing too fancy to brag about yet. So stay tuned lol.
 </p>
