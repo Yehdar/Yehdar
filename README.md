@@ -6,6 +6,10 @@
 </p>
 <p>
   Just for context, projects will be tagged at the end to indicate what year it was made!
-  /n Year 0 = before uni
-  /n Year 1 = first year
+</p>
+<p>
+  Year 0 = before university
+</p>
+<p>
+  Year 1 = first year
 </p>
