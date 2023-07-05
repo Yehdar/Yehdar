@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logoColor=0088cc&logo=telegram)](https://t.me/Yehdarr)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me)](https://yehdar.github.io/portfolio/)
 
-What's up! I'm Radhey, a computer science student. I spend my free time rewriting famous software into Rust or Go.
+What's up! I'm Radhey, a computer science student. During my free time, I rewrite famous software into Rust or Go.
 
 ## My Rewrites
 - [Chromium Project's Blink](https://github.com/Yehdar/ghetto-blink-rewrite)
