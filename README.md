@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logoColor=0088cc&logo=telegram)](https://t.me/Yehdarr)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me)](https://yehdar.github.io/)
 
-What's up! I'm Radhey, a computer science student. Currently, I'm learning Rust.
+What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my data structure and algorithms knowledge.
 
 ## My Rewrites
 - [Chromium Project's Blink](https://github.com/Yehdar/ghetto-blink-rewrite)
@@ -25,4 +25,4 @@ What's up! I'm Radhey, a computer science student. Currently, I'm learning Rust.
 - [Broblox](https://github.com/Yehdar/broblox)
 
 ## Get in touch: 
-Hit me up. I love talking about every type of tech.
+Hit me up. I enjoy talking about every type of tech.
