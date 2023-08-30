@@ -9,15 +9,13 @@
 
 What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my data structure and algorithms knowledge.
 
-## My Rewrites
-- [Chromium Project's Blink](https://github.com/Yehdar/ghetto-blink-rewrite)
+## My Projects
+- [W11 Rendering Engine](https://github.com/Yehdar/w11-rendering-engine)
+- [Live Video Streaming Platform](https://github.com/Yehdar/video-streaming-platform)
+- [LAN Chat](https://github.com/Yehdar/LAN-chat)
 - [Nmap Port Sniffer](https://github.com/Yehdar/ghetto-nmap-port-sniffer-rewrite)
 - [Redis LRU Cache](https://github.com/Yehdar/ghetto-redis-LRU-cache-rewrite)
 - [NGINX Loadbalancer](https://github.com/Yehdar/ghetto-nginx-loadbalancer-rewrite)
-
-## My Projects
-- [Live Video Streaming Platform](https://github.com/Yehdar/video-streaming-platform)
-- [LAN Chat](https://github.com/Yehdar/LAN-chat)
 - [Broken Link Web Crawler](https://github.com/Yehdar/broken-link-web-crawler)
 - [Email Address Validator](https://github.com/Yehdar/email-address-validator)
 - [Raincheck](https://github.com/Yehdar/raincheck)
