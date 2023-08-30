@@ -11,7 +11,7 @@ What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my
 
 ## My Projects
 - [W11 Rendering Engine](https://github.com/Yehdar/w11-rendering-engine)
-- [Live Video Streaming Platform](https://github.com/Yehdar/video-streaming-platform)
+- [Stream](https://github.com/Yehdar/stream)
 - [LAN Chat](https://github.com/Yehdar/LAN-chat)
 - [Nmap Port Sniffer](https://github.com/Yehdar/ghetto-nmap-port-sniffer-rewrite)
 - [Redis LRU Cache](https://github.com/Yehdar/ghetto-redis-LRU-cache-rewrite)
