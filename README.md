@@ -15,12 +15,12 @@ What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my
 - [Slither (web crawler)](https://github.com/Yehdar/slither)
 - [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
 - [Kanine (port sniffer)](https://github.com/Yehdar/kanine/)
-- [Email Address Validator (CLI tool)](https://github.com/Yehdar/email-address-validator)
-- [Raincheck (CLI tool)](https://github.com/Yehdar/raincheck)
-- [RemindMe (reminder alert box)](https://github.com/Yehdar/remindme)
+- [Email Address Validator (CLI tool)](https://github.com/The-Golang-Way/email-address-validator)
+- [Raincheck (CLI tool)](https://github.com/The-Golang-Way/raincheck)
+- [RemindMe (reminder alert box)](https://github.com/The-Golang-Way/remindme)
 - [Broblox (escape room game)](https://github.com/Yehdar/broblox)
-- [LRU Cache](https://github.com/Yehdar/LRU-cache)
-- [Loadbalancer](https://github.com/Yehdar/loadbalancer)
+- [LRU Cache](https://github.com/The-Golang-Way/LRU-cache)
+- [Loadbalancer](https://github.com/The-Golang-Way/loadbalancer)
 
 ## Get in touch: 
 Hit me up. I enjoy talking about every type of tech.
