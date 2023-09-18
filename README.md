@@ -10,17 +10,17 @@
 What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my data structure and algorithms knowledge.
 
 ## My Projects
-- [W11 Rendering Engine](https://github.com/Yehdar/w11-rendering-engine)
-- [Stream](https://github.com/Yehdar/stream)
-- [LAN Chat](https://github.com/Yehdar/LAN-chat)
-- [Nmap Port Sniffer](https://github.com/Yehdar/ghetto-nmap-port-sniffer-rewrite)
-- [Redis LRU Cache](https://github.com/Yehdar/ghetto-redis-LRU-cache-rewrite)
-- [NGINX Loadbalancer](https://github.com/Yehdar/ghetto-nginx-loadbalancer-rewrite)
-- [Broken Link Web Crawler](https://github.com/Yehdar/broken-link-web-crawler)
-- [Email Address Validator](https://github.com/Yehdar/email-address-validator)
-- [Raincheck](https://github.com/Yehdar/raincheck)
-- [RemindMe](https://github.com/Yehdar/remindme)
-- [Broblox](https://github.com/Yehdar/broblox)
+- [Sentient (rendering engine)](https://github.com/Yehdar/sentient)
+- [Stream (live video streaming platform)](https://github.com/Yehdar/stream)
+- [Slither (web crawler)](https://github.com/Yehdar/slither)
+- [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
+- [Kanine (port sniffer)](https://github.com/Yehdar/kanine/)
+- [Email Address Validator (CLI tool)](https://github.com/Yehdar/email-address-validator)
+- [Raincheck (CLI tool)](https://github.com/Yehdar/raincheck)
+- [RemindMe (reminder alert box)](https://github.com/Yehdar/remindme)
+- [Broblox (escape room game)](https://github.com/Yehdar/broblox)
+- [LRU Cache](https://github.com/Yehdar/LRU-cache)
+- [Loadbalancer](https://github.com/Yehdar/loadbalancer)
 
 ## Get in touch: 
 Hit me up. I enjoy talking about every type of tech.
