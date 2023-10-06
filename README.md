@@ -10,17 +10,21 @@
 What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my data structure and algorithms knowledge.
 
 ## My Projects
-- [Sentient (rendering engine)](https://github.com/Yehdar/sentient)
-- [Stream (live video streaming platform)](https://github.com/Yehdar/stream)
-- [Slither (web crawler)](https://github.com/Yehdar/slither)
+- [Sentient (rendering engine)](https://github.com/Yehdar/sentient) 🚧
+- [Stream (live video streaming platform)](https://github.com/Yehdar/stream) 🚧
+- [Slither (web crawler)](https://github.com/Yehdar/slither) 🏥
 - [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
-- [Kanine (port sniffer)](https://github.com/Yehdar/kanine/)
+- [Kanine (port sniffer)](https://github.com/Yehdar/kanine/) 🏥
 - [Email Address Validator (CLI tool)](https://github.com/The-Golang-Way/email-address-validator)
 - [Raincheck (CLI tool)](https://github.com/The-Golang-Way/raincheck)
 - [RemindMe (reminder alert box)](https://github.com/The-Golang-Way/remindme)
 - [Broblox (escape room game)](https://github.com/Yehdar/broblox)
 - [LRU Cache](https://github.com/The-Golang-Way/LRU-cache)
-- [Loadbalancer](https://github.com/The-Golang-Way/loadbalancer)
+- [Loadbalancer](https://github.com/The-Golang-Way/loadbalancer) 🏥
+
+### Legend
+🚧 - in progress\
+🏥 - broken
 
 ## Get in touch: 
 Hit me up. I enjoy talking about every type of tech.
