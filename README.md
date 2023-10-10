@@ -10,14 +10,16 @@
 What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my data structure and algorithms knowledge.
 
 ## My Projects
-- [Sentient (rendering engine)](https://github.com/Yehdar/sentient) 🚧
-- [Stream (live video streaming platform)](https://github.com/Yehdar/stream) 🚧
+- [WatchDogs (data monitoring system)](https://github.com/Yehdar/watchdogs)
+- [SpaceX Mission Catalog (website about SpaceX missions)](https://github.com/Yehdar/spacex-mission-catalog)
+- [Stream (live video streaming platform)](https://github.com/Yehdar/stream)
 - [Slither (web crawler)](https://github.com/Yehdar/slither) 🏥
 - [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
 - [Kanine (port sniffer)](https://github.com/Yehdar/kanine/) 🏥
 - [Email Address Validator (CLI tool)](https://github.com/The-Golang-Way/email-address-validator)
 - [Raincheck (CLI tool)](https://github.com/The-Golang-Way/raincheck)
 - [RemindMe (reminder alert box)](https://github.com/The-Golang-Way/remindme)
+- [Sentient (rendering engine)](https://github.com/Yehdar/sentient) 🚧
 - [Broblox (escape room game)](https://github.com/Yehdar/broblox)
 - [LRU Cache](https://github.com/The-Golang-Way/LRU-cache)
 - [Loadbalancer](https://github.com/The-Golang-Way/loadbalancer) 🏥
