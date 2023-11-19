@@ -12,8 +12,9 @@ What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my
 ## Projects
 ### Personal
 - [WatchDogs (video streaming platform)](https://github.com/Yehdar/watchdogs)
-- [Overseer (hardware monitoring service)](https://github.com/Yehdar/overseer)
+- [Overseer (cpu cloud monitoring service)](https://github.com/Yehdar/overseer)
 - [VaultMonster (file storage system)](https://github.com/Yehdar/vaultmonster)
+- [Polyglot (serverless binary instruction translator)](https://github.com/Yehdar/polyglot)
 - [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
 - [Broblox (escape room game)](https://github.com/Yehdar/broblox)
 
