@@ -11,6 +11,9 @@ What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my
 
 ## Projects
 ### Personal
+- [Watcher (workforce management system)](https://github.com/Yehdar/watcher)
+- [Steady (support tickets project manager)](https://github.com/Yehdar/steady)
+- [EnrolmentBouncer (student course enrolment module)](https://github.com/Yehdar/enrolment-bouncer)
 - [WatchDogs (video streaming platform)](https://github.com/Yehdar/watchdogs)
 - [Overseer (cpu cloud monitoring service)](https://github.com/Yehdar/overseer)
 - [VaultMonster (file storage system)](https://github.com/Yehdar/vaultmonster)
@@ -18,7 +21,7 @@ What's up! I'm Radhey, a computer science student. Currently, I'm leveling up my
 - [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
 - [Broblox (escape room game)](https://github.com/Yehdar/broblox)
 
-### Club
+### Volunteer
 - [Email Address Validator (CLI tool)](https://github.com/The-Golang-Way/email-address-validator)
 - [Raincheck (CLI tool)](https://github.com/The-Golang-Way/raincheck)
 - [RemindMe (reminder alert box)](https://github.com/The-Golang-Way/remindme)
