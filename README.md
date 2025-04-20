@@ -8,9 +8,8 @@
 Hey, I am a computer science student at York University who is learning to be a better software engineer (and person)!
 
 ## Experience
-- Software Engineer Intern @ [Royal Bank of Canada](https://github.com/rbc)
-- Prev @ [Government of Canada](https://github.com/cse-cst) 
-- Research @ York University
+- Software Engineer Intern @ Manulife
+- Formerly @ Royal Bank of Canada, Government of Canada 
 
 ## Projects
 - Python: [Steady (support tickets project manager)](https://github.com/Yehdar/steady), [Hermes (LAN chat app)](https://github.com/Yehdar/hermes)
@@ -20,6 +19,8 @@ Hey, I am a computer science student at York University who is learning to be a 
 - JavaScript or TypeScript: [VaultMonster (file storage system)](https://github.com/Yehdar/vaultmonster), [Broblox (escape room game)](https://github.com/Yehdar/broblox), [SpaceX Mission Catalog (SpaceX missions)](https://github.com/Yehdar/spacex-mission-catalog)
 
 - AWS: [Polyglot (serverless binary instruction translator)](https://github.com/Yehdar/polyglot), [WatchDogs (video streaming platform)](https://github.com/Yehdar/watchdogs), [Overseer (cpu cloud monitoring service)](https://github.com/Yehdar/overseer)
+
+- Kotlin: [Trader (options trading app)](https://github.com/Yehdar/trader)
 
 - Golang: [Email Address Validator (CLI tool)](https://github.com/The-Golang-Way/email-address-validator), [Raincheck (CLI tool)](https://github.com/The-Golang-Way/raincheck), [RemindMe (reminder alert box)](https://github.com/The-Golang-Way/remindme), [LRU Cache](https://github.com/The-Golang-Way/LRU-cache), [Loadbalancer](https://github.com/The-Golang-Way/loadbalancer) 
 
