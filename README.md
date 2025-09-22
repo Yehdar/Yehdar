@@ -15,7 +15,7 @@ Hey, I am a computer science student in Canada who is learning to be a better so
 
 - JavaScript or TypeScript: [University's Engineering Student Government Website (full-stack application)](https://github.com/lascongress/lascongress.github.io), [VaultMonster (file storage system)](https://github.com/Yehdar/vaultmonster), [Broblox (full-stack application)](https://github.com/Yehdar/broblox), [SpaceX Mission Catalog (backend API)](https://github.com/Yehdar/spacex-mission-catalog)
 
-- Kotlin: [Trader (full-stack applcation)](https://github.com/Yehdar/trader)
+- Kotlin: [Budget Planner (full-stack applcation)](https://github.com/Yehdar/Budget-Planner), [Trader (full-stack applcation)](https://github.com/Yehdar/trader)
 
 - AWS: [Polyglot (cloud application)](https://github.com/Yehdar/polyglot), [WatchDogs (full-stack cloud application)](https://github.com/Yehdar/watchdogs), [Overseer (full-stack cloud application)](https://github.com/Yehdar/overseer)
 
