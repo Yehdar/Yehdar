@@ -8,7 +8,7 @@
 Hey, I am a computer science student in Canada who is learning to be a better software engineer (and person)!
 
 ## Experience
-- Former Software Engineer Intern @ Manulife, Royal Bank of Canada, Government of Canada 
+- Former Software Engineer Intern @ Citi, Manulife, Royal Bank of Canada, Government of Canada 
 
 ## Projects
 - Python: [Steady (full-stack application)](https://github.com/Yehdar/steady), [Hermes (networking chat application)](https://github.com/Yehdar/hermes), [Google Photos Script (automation script)](https://github.com/Yehdar/Google-Photos-Script)
